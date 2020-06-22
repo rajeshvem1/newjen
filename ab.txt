@@ -1,1 +1,2 @@
 echo "I am in training"
+echo " i am chcking Poll SCM for 2min"
